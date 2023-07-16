@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582338253612",
+    "project_id": "instantgram-3a415",
+    "storage_bucket": "instantgram-3a415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582338253612:android:da30c5def0de6ef4349289",
+        "android_client_info": {
+          "package_name": "com.example.instantgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582338253612-dlipfovru5n6uo8jb6tn2obvsh2g9e2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeQojoFtB47lmu42pqK7UlH8DgmVLSau4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582338253612-dlipfovru5n6uo8jb6tn2obvsh2g9e2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

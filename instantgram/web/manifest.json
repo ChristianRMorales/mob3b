@@ -1,6 +1,6 @@
 {
-    "name": "instantgram",
-    "short_name": "instantgram",
+    "name": "instant_gram",
+    "short_name": "instant_gram",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
